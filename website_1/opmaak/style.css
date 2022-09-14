@@ -7,16 +7,20 @@ article {
     display: block;
     font-family: Trebuchet, Trebuchet MS, Verdana;
     text-align: center;
+    float: right;
+    width: 85%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #64F5E6;
+    /* lichtblauw */
 }
 
 footer {
     margin-left: -8px;
     margin-right: -8px;
-}
-
-footer {
     background-color: white;
     padding: 5px;
+    clear: both;
 }
 
 header {
@@ -50,17 +54,4 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-}
-
-article {
-    float: right;
-    width: 85%;
-    margin: 10px;
-    padding: 10px;
-    background-color: #64F5E6;
-    /* lichtblauw */
-}
-
-footer {
-    clear: both
 }
