@@ -3,23 +3,18 @@ body {
     background-size: cover;
 }
 
-header,
-nav,
-footer,
-article {
+header, nav, footer, article {
     display: block;
     font-family: Trebuchet, Trebuchet MS, Verdana;
     text-align: center;
 }
 
-header,
-footer {
+header, footer {
     margin-left: -8px;
     margin-right: -8px;
 }
 
-header,
-footer {
+header, footer {
     background-color: white;
     padding: 5px;
 }
