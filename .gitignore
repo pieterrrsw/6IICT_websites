@@ -174,5 +174,6 @@ dmypy.json
 cython_debug/
 
 # Add own ignores here
-test_venv/
-/*.txt
+## ATTENTION: 
+## .gitignore only works on files that are not yet saved in the repository.
+## In other words only files with a green color in VS code can be ignored. 
